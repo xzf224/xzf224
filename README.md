@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zhifeng xie</h1>
-<h3 align="center">A sinior software engineer from China</h3>
+<h3 align="center">A senior software engineer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzf224&label=Profile%20views&color=0e75b6&style=flat" alt="xzf224" /> </p>
 
